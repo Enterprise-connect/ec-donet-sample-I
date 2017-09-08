@@ -1,2 +1,2 @@
 # ec-donet-sample-I
- Enterprise-Connect Microsoft .NET Sample App
+ Enterprise-Connect Microsoft .NET Sample App.
